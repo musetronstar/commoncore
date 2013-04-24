@@ -13,7 +13,7 @@ Run fetch.py. This will scrape the XML from the two CCSS trees (Math and ELA-Lit
 fetch.py will then populate an unstructured json file named **data.json**
 
 ### Second: create.py
-Run create.py. This will scrape the **data.json** file and create a structured json file, with a hierarchy similar to the proposed hierarchy published by CCSS (with some changes to make it user-friendly, because it is a little ridiculous)
+Run create.py. This will scrape the **data.json** file and create a structured json file **usable_data.json**, with a hierarchy similar to the proposed hierarchy published by CCSS (with some changes to make it user-friendly, because it is a little ridiculous)
 
 ### Third: You're done!
 Now you have a human-readable json file with all of the core standards, go you! Please note that because the CCSS people thought it was a good idea to include html in these standards (my thought: WHY WHY WHY????) you will notice some html in your standards like italic and supescrips. Don't blame me.
