@@ -1,6 +1,6 @@
 # A Common Core State Standards (CCSS) Parser
 *Copyright (C) 2013 Quentin Donnellan*
-*http://qdonnellan.appspot.com*
+*http://www.qdonnellan.com*
 
 ## What is this?
 This is a python parser for the Common Core State Standards (CCSS). It's function is quite simple: Read the XML data from the CCSS websites, then turn it into useful json which can be iterated by your webapp. Feel free to download remix, etc. as I've attached an MIT license to this thing.
