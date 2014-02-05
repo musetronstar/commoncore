@@ -21,6 +21,3 @@ Now you have a human-readable json file with all of the core standards, go you! 
 Also, since the CCSS is riddled with Windows-1252 encoded unicode characters (which are not mapped in ascii) I've had to scrape them and replace with usable substitutes. It should be easy to figure out where I've changed those things in my code. 
 
 That's it, have fun!
-
-### Not allergic to bitcoin
-Whiskey donation fund: 1MraDxM8gywuiQeTNdMaLB7U4xhpUQ9YeJ
